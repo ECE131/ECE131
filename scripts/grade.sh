@@ -15,9 +15,10 @@ if [ "$#" -ne 1 ]; then
 fi
 HW_NUMBER=$1
 echo Grading Homework ${HW_NUMBER}
-
+echo "**********************************************"
+pwd
 dir=`dirname $0`/..
-cd homework${HW_NUMBER}
+cd ECE131/homework${HW_NUMBER}
 echo In directory `pwd`
 ./test.sh
 echo --------------------------------------------------
