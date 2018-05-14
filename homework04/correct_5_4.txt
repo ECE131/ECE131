@@ -1,0 +1,7 @@
+Begin Calculations
+= 10.00000
+= 5.00000
+= 20.00000
+= 14.00000
+= 4.66667
+End of Calculations
