@@ -1,0 +1,2 @@
+Enter 10 numbers to average
+Averge = 35.810
